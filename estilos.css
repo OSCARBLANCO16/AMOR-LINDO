@@ -1,0 +1,56 @@
+
+<style>
+
+
+
+
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 17px;
+ text-align: ustify;
+
+
+}
+
+table {
+	margin: auto;
+	width: 70%;
+}
+
+td, th {
+  border: 2px solid #000000;
+  color: black;
+  text-align: center;
+  padding: 8px;
+ background: DodgerBlue;
+  color: white;
+  margin: 12px;
+line-height: 1.2; font-size: 1em
+font: 1.8em Arial, Helvetica, sans-serif;
+
+
+height: 120px; 
+width: 130px
+position: relative;
+overflow: visible;
+
+
+
+a:link {
+	color: red;
+}
+
+}
+
+</style>
